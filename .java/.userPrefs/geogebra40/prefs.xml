@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE map SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<map MAP_XML_VERSION="1.0">
+  <entry key="app_file_1" value=""/>
+  <entry key="app_file_2" value=""/>
+  <entry key="app_file_3" value=""/>
+  <entry key="app_file_4" value=""/>
+  <entry key="app_file_5" value=""/>
+  <entry key="app_file_6" value=""/>
+  <entry key="app_file_7" value=""/>
+  <entry key="app_file_8" value=""/>
+  <entry key="version" value="4.0.34.0"/>
+  <entry key="xml_factory_default" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;utf-8&quot;?&gt;&#10;&lt;geogebra format=&quot;4.0&quot; xsi:noNamespaceSchemaLocation=&quot;http://www.geogebra.org/ggb.xsd&quot; xmlns=&quot;&quot; xmlns:xsi=&quot;http://www.w3.org/2001/XMLSchema-instance&quot; &gt;&#10;&lt;gui&gt;&#10;&#9;&lt;window width=&quot;800&quot; height=&quot;600&quot; /&gt;&#10;&#9;&lt;settings ignoreDocument=&quot;false&quot; showTitleBar=&quot;true&quot; /&gt;&#10;&#9;&lt;labelingStyle  val=&quot;3&quot;/&gt;&#10;&#9;&lt;mouse reverseWheel=&quot;false&quot;/&gt;&#10;&#9;&lt;font  size=&quot;12&quot;/&gt;&#10;&lt;/gui&gt;&#10;&lt;euclidianView&gt;&#10;&#9;&lt;size  width=&quot;640&quot; height=&quot;480&quot;/&gt;&#10;&#9;&lt;coordSystem xZero=&quot;215.0&quot; yZero=&quot;315.0&quot; scale=&quot;50.0&quot; yscale=&quot;50.0&quot;/&gt;&#10;&#9;&lt;evSettings axes=&quot;true&quot; grid=&quot;false&quot; gridIsBold=&quot;false&quot; pointCapturing=&quot;3&quot; rightAngleStyle=&quot;2&quot; checkboxSize=&quot;13&quot; gridType=&quot;0&quot;/&gt;&#10;&#9;&lt;bgColor r=&quot;255&quot; g=&quot;255&quot; b=&quot;255&quot;/&gt;&#10;&#9;&lt;axesColor r=&quot;0&quot; g=&quot;0&quot; b=&quot;0&quot;/&gt;&#10;&#9;&lt;gridColor r=&quot;192&quot; g=&quot;192&quot; b=&quot;192&quot;/&gt;&#10;&#9;&lt;lineStyle axes=&quot;1&quot; grid=&quot;10&quot;/&gt;&#10;&#9;&lt;axis id=&quot;0&quot; show=&quot;true&quot; label=&quot;&quot; unitLabel=&quot;&quot; tickStyle=&quot;1&quot; showNumbers=&quot;true&quot; axisCross=&quot;0.0&quot; positiveAxis=&quot;false&quot;/&gt;&#10;&#9;&lt;axis id=&quot;1&quot; show=&quot;true&quot; label=&quot;&quot; unitLabel=&quot;&quot; tickStyle=&quot;1&quot; showNumbers=&quot;true&quot; axisCross=&quot;0.0&quot; positiveAxis=&quot;false&quot;/&gt;&#10;&lt;/euclidianView&gt;&#10;&lt;kernel&gt;&#10;&#9;&lt;continuous val=&quot;false&quot;/&gt;&#10;&#9;&lt;decimals val=&quot;2&quot;/&gt;&#10;&#9;&lt;angleUnit val=&quot;degree&quot;/&gt;&#10;&#9;&lt;algebraStyle val=&quot;0&quot;/&gt;&#10;&#9;&lt;coordStyle val=&quot;0&quot;/&gt;&#10;&lt;/kernel&gt;&#10;&lt;scripting blocked=&quot;false&quot;/&gt;&#10;&lt;/geogebra&gt;&#10;"/>
+</map>
